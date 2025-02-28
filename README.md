@@ -60,12 +60,13 @@ A convenient salon service app, enabling users to book home salon services effor
 - Error Handling
 - Flavors Management
 - Responsive Design
-- Express.js
-- Next.js
+- FastAPI
+- React.js
 - HTML, CSS, JavaScript
 - Material UI
 - Tailwind CSS
-- MongoDB
+- Postgresql
+- ML(LangChain,LangGraph)
 
 ## 📖 Education
 
