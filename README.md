@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haraprosadbiswas/)
 
-Passionate programmer with over 4 years of diverse experience in Mobile App Development. Proficient in Hybrid Mobile App Development using Flutter for over 3 years, along with 1+ year of Native Android Mobile App development expertise. Recent focus on expanding skill set to include Express.js and Next.js, while continuing to excel in Flutter development. Eager to tackle new challenges and constantly evolve in the ever-changing tech landscape. Let's collaborate and innovate together!
+Passionate programmer with over 4 years of diverse experience in Mobile App Development. Proficient in Hybrid Mobile App Development using Flutter for over 3 years, along with 1+ year of Native Android Mobile App development expertise. Recent focus on expanding skill set to include React.js,FastAPI and ML, while continuing to excel in Flutter development. Eager to tackle new challenges and constantly evolve in the ever-changing tech landscape. Let's collaborate and innovate together!
 
 ## 💼 Professional Experience
 **Software Engineer** @ [10xscale.ai](https://10xscale.ai/) *Part-time _(Jan 2025 - Present)_
