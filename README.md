@@ -6,8 +6,12 @@
 Passionate programmer with over 4 years of diverse experience in Mobile App Development. Proficient in Hybrid Mobile App Development using Flutter for over 3 years, along with 1+ year of Native Android Mobile App development expertise. Recent focus on expanding skill set to include Express.js and Next.js, while continuing to excel in Flutter development. Eager to tackle new challenges and constantly evolve in the ever-changing tech landscape. Let's collaborate and innovate together!
 
 ## 💼 Professional Experience
+**Software Engineer** @ [10xscale.ai](https://10xscale.ai/) *Part-time _(Jan 2025 - Present)_
+- Joined as a founding team member in developing a SaaS product, contributing to product strategy while leading the technical implementation across mobile and web platforms.
+- Spearheaded the development of cross-platform applications using Flutter, while supporting web frontend with ReactJS and backend services with FastAPI, establishing core infrastructure for product scalability.
+- Drove key technical decisions and architectural planning, translating innovative product ideas into robust solutions while adapting to evolving market requirements and business objectives.
 
-**Software Engineer (Flutter)** @ [Padma Smart Technology](https://padmatechnology.com/) _(Jan 2022 - Present)_
+**Software Engineer (Flutter)** @ [Padma Smart Technology](https://padmatechnology.com/) _(Jan 2022 - Dec 2024)_
 - Engineered IoT solutions for Smart Water Meter and Smart Electric Meter applications, optimizing consumption tracking, billing, and payment processes.
 - Architected operational apps for IoT support, streamlining installations and ensuring seamless communication with LoRa gateways.
 - Collaborated cross-functionally to align software development with company objectives, ensuring timely delivery and scalability.
