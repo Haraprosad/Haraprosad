@@ -14,7 +14,7 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_Edmonton,_Alberta,_Canada-1a1a2e?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Dhaka,_Bangladesh-1a1a2e?style=flat-square)
 ![Status](https://img.shields.io/badge/🟢_Open_to_Opportunities-16213e?style=flat-square)
 ![Experience](https://img.shields.io/badge/⚡_5%2B_Years_Mobile_%26_AI-0f3460?style=flat-square)
 ![Research](https://img.shields.io/badge/🔬_IEEE_Published_Researcher-E94560?style=flat-square)
