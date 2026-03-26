@@ -108,6 +108,12 @@ const developer = {
 | 🏗️ **[flutter_specialized_temp](https://github.com/Haraprosad/flutter_specialized_temp)** | Production-ready Flutter template with clean architecture & best practices pre-wired |
 
 ---
+## 📦 Other Open Source Contributions
+
+| Project | Pull Request | Description | Status |
+|---------|-------------|-------------|--------|
+| [redhat-developer/lsp4ij](https://github.com/redhat-developer/lsp4ij) | [#1445](https://github.com/redhat-developer/lsp4ij/pull/1445) | **Problem:** lsp4ij was hardcoded to read language server messages only from a standard input stream — making it **impossible** to integrate language servers that don't follow the standard stdio protocol. Developers were completely stuck, forced to bypass the entire extension system with dirty workarounds just to get their server working.<br><br>**Solution:** Cracked open the pipeline. Plugins can now plug in **any message source** they want — a queue, a socket, a legacy protocol proxy — cleanly, through the official API. What was once a brick wall is now an open door.<br><br>This single change **unlocks an entire category of language servers** that were previously incompatible with lsp4ij — without touching a single existing test or breaking any existing behavior. | ✅ Closed |
+
 
 ## 🛠️ Tech Arsenal
 
